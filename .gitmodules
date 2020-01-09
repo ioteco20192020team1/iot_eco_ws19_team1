@@ -1,0 +1,6 @@
+[submodule "lib/TelegramBot-Library"]
+	path = lib/TelegramBot-Library
+	url = https://github.com/CasaJasmina/TelegramBot-Library.git
+[submodule "lib/Adafruit-MLX90614-Library"]
+	path = lib/Adafruit-MLX90614-Library
+	url = https://github.com/adafruit/Adafruit-MLX90614-Library.git
