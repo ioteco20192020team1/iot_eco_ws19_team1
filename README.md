@@ -7,6 +7,7 @@ https://www.hackster.io/projects/d5e6f5
  * Create a new spreadsheet on google docs
  * Open the script edior
  * Add all scripts from folder "google_apps_scripts" to the script editor
+ * Insert you spreadsheet id and you telegrambot id
  * Start the scripts
  * Open Particle Web IDE
  * Create a new project
