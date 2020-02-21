@@ -1,7 +1,7 @@
-var token = "1054704890:AAG6akyVkxnwz9LWx6ZvTuKlx5dIUqP2MhM";
+var token = <insert you token id>
 var telegramUrl = "https://api.telegram.org/bot" + token;
 var webAppUrl = ScriptApp.getService().getUrl(); //ScriptApp.getService().getUrl();
-var sheet = SpreadsheetApp.openById("1xenLojQaAlMPGNmzmcf-3mL3EFiOQG_yuAv-PbhrK3E");
+var sheet = SpreadsheetApp.openById(<insert you spreadsheet id>);
 
 //Process Data from Sensor
 var cache = CacheService.getScriptCache();
